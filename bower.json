@@ -1,0 +1,17 @@
+{
+    "name": "droidarabickufi-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Pascal Zoghbi"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/droidarabickufi-bower.git"
+    },
+    "description": "Droid Arabic Kufi font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
